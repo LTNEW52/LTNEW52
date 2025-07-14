@@ -1,8 +1,12 @@
+<br clear="both">
+
 <h2 align="center">Hello ☠! My name is Labib Tahmid and I'm a cybersecurity enthusiast, from Bangladesh 🇧🇩</h2>
 
 ###
 
-<img align="right" height="400" src="https://i.ibb.co/RGzMGN54/e7a5dcc0-7f90-45d5-9c56-48f049f3134b.png"  />
+<div align="center">
+  <img height="400" src="https://i.ibb.co/RGzMGN54/e7a5dcc0-7f90-45d5-9c56-48f049f3134b.png"  />
+</div>
 
 ###
 
@@ -61,22 +65,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LTNEW52/LTNEW52/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LTNEW52.LTNEW52&left_text=Welcome%20Visitors"  />
+  <a href="https://www.facebook.com/labib.tahmid.881269" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/labib-tahmid-new52/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/LabibT" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="35" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
