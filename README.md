@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://i.ibb.co/RGzMGN54/e7a5dcc0-7f90-45d5-9c56-48f049f3134b.png"  />
+  <img height="400" src="https://ibb.co/1YvvMMpX"  />
 </div>
 
 ###
